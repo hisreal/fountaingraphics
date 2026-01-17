@@ -4,12 +4,12 @@
 <head>
    <meta charset="utf-8">
    <meta http-equiv="x-ua-compatible" content="ie=edge">
-   <title>Wotech - IT Service HTML Template</title>
+   <title>Fountain Graphics and Communications</title>
    <meta name="description" content="">
    <meta name="viewport" content="width=device-width, initial-scale=1">
 
    <!-- Place favicon.ico in the root directory -->
-   <link rel="shortcut icon" type="image/x-icon" href="assets/imgs/favicon.png">
+   <link rel="shortcut icon" type="image/x-icon" href="assets/imgs/favicoon.PNG">
    <!-- CSS here -->
    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
    <link rel="stylesheet" href="assets/css/meanmenu.min.css">
@@ -54,40 +54,9 @@
                      </button>
                   </div>
                </div>
-               <div class="offcanvas__search mb-25">
-                  <p class="text-white">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum maxime accusamus corrupti natus obcaecati vitae dignissimos, id officiis similique eos.</p>
-               </div>
+              
                <div class="mobile-menu fix mb-40"></div>
-               <div class="offcanvas__contact mt-30 mb-20">
-                  <h4>Contact Info</h4>
-                  <ul>
-                     <li class="d-flex align-items-center">
-                        <div class="offcanvas__contact-icon mr-15">
-                           <i class="fal fa-map-marker-alt"></i>
-                        </div>
-                        <div class="offcanvas__contact-text">
-                           <a target="_blank"
-                              href="#">31 Park End St, Brockhampton, UK</a>
-                        </div>
-                     </li>
-                     <li class="d-flex align-items-center">
-                        <div class="offcanvas__contact-icon mr-15">
-                           <i class="far fa-phone"></i>
-                        </div>
-                        <div class="offcanvas__contact-text">
-                           <a href="tel:+00112233665">+00112233665</a>
-                        </div>
-                     </li>
-                     <li class="d-flex align-items-center">
-                        <div class="offcanvas__contact-icon mr-15">
-                           <i class="fal fa-envelope"></i>
-                        </div>
-                        <div class="offcanvas__contact-text">
-                           <a href="tel:+012-345-6789"><span class="mailto:support@example.com">support@example.com</span></a>
-                        </div>
-                     </li>
-                  </ul>
-               </div>
+
                <div class="offcanvas__social">
                   <ul>
                      <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
@@ -179,35 +148,17 @@
                            </div>
                         </div>
                      </div>
-                     <div class="search-toggle-open header-search my-auto">
-                        <div class="search-icon">
-                           <i class="icon-search"></i>
-                        </div>
-                     </div>
-                     <div class="header-shopping-cart my-auto">
-                        <div class="cart-icon">
-                           <a href="#"><i class="icon-shopping-cart"></i></a>
-                        </div>
-                     </div>
+                    
+
                      <div class="header-action d-none d-xl-inline-flex gap-5">
                         <div class="header-link">
                            <a style="font-weight: bold; " class="primary-btn-1 btn-hover" href="contact.html">
-                              GET A QUOTE Get a Quote &nbsp; | <i class="icon-right-arrow"></i>
+                            Get a Quote &nbsp; <i  style="font-weight: bold; "  class="icon-right-arrow"></i>
                               <span style="top: 147.172px; left: 108.5px;"></span>
                            </a>
                         </div>
                      </div>
-                     <div class="header-action">
-                        <div class="header-link-1">
-                          <div class="icon">
-                           <i class="fal fa-phone-volume"></i>
-                          </div>
-                          <div class="content">
-                           <span>Call Us Now</span>
-                              <h6><a href="tel:2085550112">+208-555-0112</a></h6>
-                          </div>
-                        </div>
-                     </div>
+                    
                      <div class="header__hamburger d-xl-none my-auto">
                         <div class="sidebar__toggle">
                            <a class="bar-icon" href="javascript:void(0)">

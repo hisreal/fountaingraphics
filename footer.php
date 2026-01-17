@@ -90,7 +90,7 @@
          <div class="small-container">
             <div class="footer-bottom pt-30 pb-30">
                <div class="left-area">
-                  <span>© All Copyright 2024 by <a href="#">wotech</a></span>
+                  <span>© All Copyright 2026 by <a href="#">Fountain Graphics and Communications</a></span>
                </div>
                <div class="right-area">
                   <span><a href="#">Terms & Condition</a></span>
