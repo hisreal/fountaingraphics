@@ -6,7 +6,7 @@
       <div class="footer-main bg-color-1">
          <div class="footer-top section-space-medium">
             <div class="small-container">
-               <div class="row g-4">
+               <!--<div class="row g-4">
                   <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-6">
                      <div class="footer-widget-1">
                         <figure class="image">
@@ -84,7 +84,7 @@
                          </div>  
                      </div>
                   </div>
-               </div>
+               </div>-->
             </div>
          </div>
          <div class="small-container">
